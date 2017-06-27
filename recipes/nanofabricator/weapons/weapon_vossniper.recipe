@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "vosalloy", "count" : 9 },
+    { "item" : "vosrifle", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "vossniper",
+    "count" : 1
+  },
+  "groups" : [ "armory3", "ranged2", "all" ]
+}

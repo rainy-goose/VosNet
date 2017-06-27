@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "vosalloy", "count" : 9 },
+    { "item" : "xithricitecrystal", "count" : 9 },
+    { "item" : "aetheriumalloy", "count" : 3 },
+    { "item" : "prisilitestar", "count" : 3 },
+    { "item" : "densiniumbar", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "vosrifle",
+    "count" : 1
+  },
+  "groups" : [ "armory3", "ranged2", "all" ]
+}

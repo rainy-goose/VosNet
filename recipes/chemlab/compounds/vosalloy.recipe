@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "quietusbar", "count" : 1 },
+    { "item" : "pyreitebar", "count" : 1 },
+    { "item" : "isogenbar", "count" : 1 },
+    { "item" : "effigiumbar", "count" : 1 },
+    { "item" : "thoriumrod", "count" : 1}
+  ],
+  "output" : {
+    "item" : "vosalloy",
+    "count" : 1
+  },
+  "groups" : [ "chemlab3", "compounds", "all" ],
+  "duration" : 0.2
+}

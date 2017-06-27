@@ -1,0 +1,13 @@
+{
+  "itemName" : "vosalloy",
+  "rarity" : "legendary",
+  "price" : 800,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vosalloy.png",
+  "description" : "Mixing unique metals has produced an alloy similar to the core of Vos",
+  "shortdescription" : "^#88e25b;Vos Alloy^reset;",
+  "learnBlueprintsOnPickup" : [
+  "vosrifle"
+  ],
+  "itemTags" : [ "reagent" ]
+}

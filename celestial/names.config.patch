@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/value/-",
+    "value": [1, "Vos"]
+  }
+]

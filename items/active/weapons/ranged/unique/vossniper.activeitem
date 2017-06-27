@@ -1,0 +1,106 @@
+{
+  "itemName" : "vossniper",
+  "level" : 8,
+  "price" : 16000,
+  "maxStack" : 1,
+  "rarity" : "legendary",
+  "description" : "Once used by the Vos Guard to eliminate high-priority targets
+^blue;Incredibly lethal^reset;",
+  "shortdescription" : "Vos Railgun",
+  "tooltipKind" : "gun2",
+  "category" : "sniperRifle",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","sniperrifle", "energy"],
+
+  "inventoryIcon" : [
+    { "image" : "vossniper.png" }
+  ],
+
+  "animation" : "vossniper.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "vossniper.png",
+    "middlefullbright" : "vossniperfullbright.png",
+    "barrel" : "",
+    "muzzleFlash" : "/animations/muzzleflash/vosrifleflash.png"
+  },
+  "animationCustom" : {
+    "lights" : { "glow" : {
+      "active" : true,
+      "position" : [0.75, 0.5],
+      "color" : [10, 10, 100]
+    }},
+    "sounds" : {
+      "fire" : [ "/sfx/weapons/vossniper.wav" ]
+    }
+  },
+  "baseOffset" : [0.87, 0.35],
+  "muzzleOffset" : [2, 0.125],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "electric",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 1.333,
+    "baseDps" : 99,
+    "energyUsage" : 90,
+    "inaccuracy" : 0,
+    "fireType" : "auto",
+
+    "projectileType" : "vossniperdart",
+    "projectileParameters" : {
+      "knockback" : 20,
+      "speed" : 100,
+      "power" : 2
+    },
+    "projectileCount" : 1,
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.11,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+  "critChance" : 49,
+  "critBonus" : 49,
+  "altAbilityType" : "railgunshotpower",
+  "altAbility" : {
+    "energyCost" : 49,
+    "projectileType" : "energyzone",
+    "name" : "Energy Zone",
+    "projectileParameters" : {
+      "timeToLive" : 12,
+      "speed" : 0
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}
