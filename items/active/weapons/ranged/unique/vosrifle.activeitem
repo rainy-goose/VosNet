@@ -3,12 +3,12 @@
   "price" : 16000,
   "inventoryIcon" : "vosrifle.png",
   "maxStack" : 1,
+  "level" : 8,
   "rarity" : "legendary",
   "description" : "Originally used by the Vos Guard, this firearm has been repurposed.
 ^blue;Incredibly lethal^reset;",
   "shortdescription" : "Vos Rifle",
   "category" : "Delta Cannon",
-  "level" : 8,
   "tooltipKind" : "gun2",
   "weaponType" : "Energy",
   "itemTags" : ["weapon","ranged","assaultrifle", "energy", "densinium"],

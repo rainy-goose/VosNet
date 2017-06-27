@@ -1,22 +1,20 @@
 {
   "itemName" : "vossniper",
-  "level" : 8,
   "price" : 16000,
+  "inventoryIcon" : "vossniper.png",
   "maxStack" : 1,
+  "level" : 8,
   "rarity" : "legendary",
   "description" : "Once used by the Vos Guard to eliminate high-priority targets
 ^blue;Incredibly lethal^reset;",
-  "shortdescription" : "Vos Railgun",
+  "shortdescription" : "Vos Sniper",
+  "category" : "^purple;Delta Cannon^reset;",
   "tooltipKind" : "gun2",
-  "category" : "sniperRifle",
-  "twoHanded" : true,
+  "weaponType" : "Energy",
   "itemTags" : ["weapon","ranged","sniperrifle", "energy"],
+  "twoHanded" : true,
 
-  "inventoryIcon" : [
-    { "image" : "vossniper.png" }
-  ],
-
-  "animation" : "vossniper.animation",
+  "animation" : "/items/active/weapons/ranged/unique/vossniper.animation",
   "animationParts" : {
     "butt" : "",
     "middle" : "vossniper.png",
@@ -51,7 +49,7 @@
     "inaccuracy" : 0,
     "fireType" : "auto",
 
-    "projectileType" : "vossniperdart",
+    "projectileType" : "densiniumrifleshot",
     "projectileParameters" : {
       "knockback" : 20,
       "speed" : 100,

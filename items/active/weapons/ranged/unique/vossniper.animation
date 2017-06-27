@@ -16,16 +16,6 @@
             "transition" : "off"
           }
         }
-      },
-      "middle" : {
-        "default" : "idle",
-        "states" : {
-          "idle" : {
-            "frames" : 4,
-            "cycle" : 0.3,
-            "mode" : "loop"
-          }
-        }
       }
     },
 
@@ -41,35 +31,19 @@
       "middle" : {
         "properties" : {
           "centered" : true,
+          "image" : "<partImage><paletteSwaps>",
           "offset" : [0, 0], // x offset is set dynamically
           "transformationGroups" : ["weapon"]
-        },
-        "partStates" : {
-          "middle" : {
-            "idle" : {
-              "properties" : {
-                "image" : "<partImage>:idle.<frame><paletteSwaps>"
-              }
-            }
-          }
         }
       },
       "middlefullbright" : {
         "properties" : {
           "centered" : true,
-          "offset" : [0.9, 0.35],
+          "image" : "<partImage><paletteSwaps>",
+          "offset" : [0.68, -0.22], // x offset is set dynamically
           "zLevel" : 1,
           "transformationGroups" : ["weapon"],
           "fullbright" : true
-        },
-        "partStates" : {
-          "middle" : {
-            "idle" : {
-              "properties" : {
-                "image" : "<partImage>:idle.<frame><paletteSwaps>"
-              }
-            }
-          }
         }
       },
       "barrel" : {
