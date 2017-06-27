@@ -36,16 +36,6 @@
           "transformationGroups" : ["weapon"]
         }
       },
-      "middlefullbright" : {
-        "properties" : {
-          "centered" : true,
-          "image" : "<partImage><paletteSwaps>",
-          "offset" : [0.68, -0.22], // x offset is set dynamically
-          "zLevel" : 1,
-          "transformationGroups" : ["weapon"],
-          "fullbright" : true
-        }
-      },
       "barrel" : {
         "properties" : {
           "centered" : true,
