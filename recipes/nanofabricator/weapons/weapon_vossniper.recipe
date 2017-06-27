@@ -7,5 +7,6 @@
     "item" : "vossniper",
     "count" : 1
   },
-  "groups" : [ "armory3", "ranged2", "all" ]
+  "groups" : [ "armory3", "ranged2", "all" ],
+  "duration" : 2
 }
