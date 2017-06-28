@@ -8,7 +8,7 @@
   "description" : "Once used by the Vos Guard to eliminate high-priority targets
 ^blue;Incredibly lethal^reset;",
   "shortdescription" : "Vos Sniper",
-  "category" : "^purple;Delta Cannon^reset;",
+  "category" : "Delta Cannon",
   "tooltipKind" : "gun2",
   "weaponType" : "Energy",
   "itemTags" : ["weapon","ranged","sniperrifle", "energy"],
@@ -43,8 +43,8 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
 
-    "fireTime" : 1.333,
-    "baseDps" : 99,
+    "fireTime" : 2,
+    "baseDps" : 66,
     "energyUsage" : 90,
     "inaccuracy" : 0,
     "fireType" : "auto",
