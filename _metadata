@@ -1,9 +1,10 @@
  {
- "version" : "1.5",
+ "version" : "1.51",
+ "name" : "VosNet",
  "friendlyName" : "VosNet",
  "link" : "",
  "steamContentId" : "",
- "name" : "VosNet",
- "description" : "A collection of edits and other tweaks by Vos.",
+ "includes" : ["FrackinUniverse"],
+ "description" : "A VosNet mod, focusing on higher-end weapons and technology.",
  "author" : "Vos"
  }

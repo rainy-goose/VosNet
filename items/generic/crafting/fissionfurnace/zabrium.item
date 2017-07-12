@@ -4,7 +4,7 @@
   "price" : 600,
   "category" : "craftingMaterial",
   "inventoryIcon" : "zabrium.png",
-  "description" : "A lab-made compound, similar to the surface material of Vos",
+  "description" : "Simultaneously freezing cold and scorching hot, Zabrium is a unique alloy that has powerful uses.",
   "shortdescription" : "^#88e25b;Zabrium^reset;",
   "learnBlueprintsOnPickup" : [
   "oprinque"

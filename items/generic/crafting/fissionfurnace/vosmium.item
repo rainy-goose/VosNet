@@ -4,7 +4,7 @@
   "price" : 800,
   "category" : "craftingMaterial",
   "inventoryIcon" : "vosmium.png",
-  "description" : "Similar to the core of Vos, this alloy resonates with an unworldly force",
+  "description" : "A material similar to the core of Vos, this alloy resonates with an unworldly force",
   "shortdescription" : "^#88e25b;Vosmium^reset;",
   "learnBlueprintsOnPickup" : [
   "vosrifle"
