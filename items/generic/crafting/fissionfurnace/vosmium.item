@@ -1,0 +1,13 @@
+{
+  "itemName" : "vosmium",
+  "rarity" : "legendary",
+  "price" : 800,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vosmium.png",
+  "description" : "Similar to the core of Vos, this alloy resonates with an unworldly force",
+  "shortdescription" : "^#88e25b;Vosmium^reset;",
+  "learnBlueprintsOnPickup" : [
+  "vosrifle"
+  ],
+  "itemTags" : [ "reagent" ]
+}

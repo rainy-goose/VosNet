@@ -1,15 +1,14 @@
 {
   "input" : [
     { "item" : "liquidgravrain", "count" : 5 },
-    { "item" : "pyreitebar", "count" : 1 }, //isogen+pyrite compound
-    { "item" : "isogenbar", "count" : 1 },//remove
+    { "item" : "zabrium", "count" : 1 },
     { "item" : "thoriumrod", "count" : 1}//remove
   ],
   "output" : {
     "item" : "oprinque",
     "count" : 1
   },
-  "groups" : [ "fissionfurnace", "compounds", "all" ],
+  "groups" : [ "fissionfurnace", "bars", "all" ],
   "duration" : 1
 }
 // Fix recipe, isogen+pyrite new compound for oprinque

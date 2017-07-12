@@ -1,0 +1,13 @@
+{
+  "itemName" : "zabrium",
+  "rarity" : "legendary",
+  "price" : 600,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "zabrium.png",
+  "description" : "A lab-made compound, similar to the surface material of Vos",
+  "shortdescription" : "^#88e25b;Zabrium^reset;",
+  "learnBlueprintsOnPickup" : [
+  "oprinque"
+  ],
+  "itemTags" : [ "reagent" ]
+}
