@@ -1,10 +1,10 @@
- {
- "version" : "1.52",
- "name" : "VosNet",
- "friendlyName" : "VosNet",
- "link" : "",
- "steamContentId" : "",
- "includes" : ["FrackinUniverse"],
- "description" : "A VosNet mod, focusing on higher-end weapons and technology.",
- "author" : "Vos"
- }
+{
+  "author" : "VosNet",
+  "description" : "A VosNet mod, focusing on higher-end weapons and technology. This mod requires Frackin' Universe to run. ",
+  "friendlyName" : "VosNet",
+  "includes" : ["FrackinUniverse"],
+  "link" : "",
+  "name" : "VosNet",
+  "steamContentId" : "",
+  "version" : "1.0"
+}
