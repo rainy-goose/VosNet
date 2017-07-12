@@ -1,0 +1,13 @@
+{
+  "itemName" : "oprinque",
+  "rarity" : "legendary",
+  "price" : 600,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "oprinque.png",
+  "description" : "A lab-made compound, similar to the surface material of Vos",
+  "shortdescription" : "^#88e25b;Oprinque^reset;",
+  "learnBlueprintsOnPickup" : [
+  "vosalloy"
+  ],
+  "itemTags" : [ "reagent" ]
+}
