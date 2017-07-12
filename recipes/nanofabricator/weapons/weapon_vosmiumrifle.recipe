@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "vosmium", "count" : 9 },
+    { "item" : "ff_focusingarray", "count" : 2 },
+    { "item" : "oprinque", "count" : 3}
+  ],
+  "output" : {
+    "item" : "vosrifle",
+    "count" : 1
+  },
+  "groups" : [ "armory3", "ranged2", "all" ],
+  "duration" : 2
+}

@@ -1,33 +1,30 @@
 {
-  "itemName" : "vosrifle",
+  "itemName" : "vosmiumrifle",
   "price" : 16000,
-  "inventoryIcon" : "vosrifle.png",
+  "inventoryIcon" : "vosmiumrifle.png",
   "maxStack" : 1,
   "level" : 8,
   "rarity" : "legendary",
   "description" : "Originally used by the Vos Guard, this firearm has been repurposed.
 ^blue;Incredibly lethal^reset;",
-  "shortdescription" : "Vos Rifle",
+  "shortdescription" : "Vosmium Rifle",
   "category" : "Delta Cannon",
   "tooltipKind" : "gun2",
   "weaponType" : "Energy",
-  "itemTags" : ["weapon","ranged","assaultrifle", "energy", "densinium"],
+  "itemTags" : ["weapon","ranged","assaultrifle", "energy", "vosmium"],
   "twoHanded" : true,
 
-  "animation" : "/items/active/weapons/ranged/unique/vosrifle.animation",
+  "animation" : "/items/active/weapons/ranged/unique/vosmiumrifle.animation",
   "animationParts" : {
     "butt" : "",
     "middle" : "vosrifle.png",
-    "middlefullbright" : "vosriflefullbright.png",
+    "middlefullbright" : "vosmiumriflefullbright.png",
     "barrel" : "",
-    "muzzleFlash" : "/animations/muzzleflash/vosrifleflash.png"
+    "muzzleFlash" : "/animations/muzzleflash/vosmiumrifleflash.png"
   },
-  "learnBlueprintsOnPickup" : [
-  "vossniper"
-  ],
   "animationCustom" : {
     "sounds" : {
-      "fire" : [ "/sfx/weapons/vosrifle.ogg" ]
+      "fire" : [ "/sfx/weapons/vosmiumrifle.ogg" ]
     }
   },
 
@@ -42,10 +39,10 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
     "fireTime" : 0.15,
-    "baseDps" : 45,
+    "baseDps" : 30,
     "energyUsage" : 45,
     "inaccuracy" : 0.001,
-    "burstTime" : 0.075,
+    "burstTime" : 0.08,
     "burstCount" : 5,
     "projectileCount" : 1,
     "fireType" : "burst",
