@@ -5,7 +5,7 @@
     { "item" : "oprinque", "count" : 3}
   ],
   "output" : {
-    "item" : "vosrifle",
+    "item" : "vosmiumrifle",
     "count" : 1
   },
   "groups" : [ "armory3", "ranged2", "all" ],

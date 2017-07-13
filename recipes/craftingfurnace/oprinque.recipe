@@ -1,7 +1,8 @@
 {
   "input" : [
     { "item" : "liquidgravrain", "count" : 5 },
-    { "item" : "zabrium", "count" : 1 }
+    { "item" : "zabrium", "count" : 1 },
+    { "item" : "effigiumbar", "count" : 1}
   ],
   "output" : {
     "item" : "oprinque",

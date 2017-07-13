@@ -17,7 +17,7 @@
   "animation" : "/items/active/weapons/ranged/unique/vosmiumrifle.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "vosrifle.png",
+    "middle" : "vosmiumrifle.png",
     "middlefullbright" : "vosmiumriflefullbright.png",
     "barrel" : "",
     "muzzleFlash" : "/animations/muzzleflash/vosmiumrifleflash.png"
