@@ -4,7 +4,7 @@
   "price" : 600,
   "category" : "craftingMaterial",
   "inventoryIcon" : "oprinque.png",
-  "description" : "A lab-made compound",
+  "description" : "A lightless, multi-phase material.",
   "shortdescription" : "^#88e25b;Oprinque^reset;",
   "learnBlueprintsOnPickup" : [
   "vosmium"

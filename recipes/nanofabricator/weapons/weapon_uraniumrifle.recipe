@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "enricheduranium", "count" : 12 },
+    { "item" : "graphene", "count" : 4 },
+    { "item" : "advancealloy", "count" : 4}
+  ],
+  "output" : {
+    "item" : "uraniumrifle",
+    "count" : 1
+  },
+  "groups" : [ "armory3", "ranged2", "all" ],
+  "duration" : 2
+}
