@@ -1,88 +1,87 @@
 {
   "itemName" : "uraniumrifle",
-  "price" : 8000,
+  "price" : 160,
   "inventoryIcon" : "uraniumrifle.png",
   "maxStack" : 1,
-  "level" : 7,
   "rarity" : "legendary",
   "description" : "^green;Depleted uranium shreds through targets^reset;",
-  "shortdescription" : "^green;Uranium Rifle^reset;",
+  "shortdescription" :   "^green;Uranium Rifle^reset;",
   "category" : "Assault Rifle",
+  "level" : 5,
   "tooltipKind" : "gun2",
   "weaponType" : "Energy",
-  "itemTags" : ["weapon","assaultrifle", "ranged", "radioactive"],
+  "itemTags" : ["weapon","ranged","rifle", "energy"],
   "twoHanded" : true,
 
-  "animation" : "/items/active/weapons/ranged/unique/uraniumrifle.animation",
+  "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
     "middle" : "uraniumrifle.png",
-    "middlefullbright" : "uraniumriflefullbright.png",
     "barrel" : "",
-    "muzzleFlash" : "/animations/muzzleflash/uraniumrifleflash.png"
+    "muzzleFlash" : "/animations/muzzleflash/densiniummuzzle.png"
   },
   "animationCustom" : {
     "sounds" : {
-      "fire" : [ "/sfx/gun/uzi1.ogg" ]
+      "fire" : [ "/sfx/gun/plasma_ar2.ogg" ]
     }
   },
 
-  "baseOffset" : [0.68, -0.22],
-  "muzzleOffset" : [2.845, 0.325],
+  "baseOffset" : [0.48, 0.62],
+  "muzzleOffset" : [2.545, 0.125],
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
-  "elementalType" : "Radioactive",
+  "elementalType" : "radioactive",
 
   "primaryAbility" : {
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
-    "fireTime" : 0.2,
-    "baseDps" : 23,
-    "energyUsage" : 30,
-    "inaccuracy" : 0.001,
-    "burstTime" : 0.06,
-    "burstCount" : 3,
+    "fireTime" : 0.06,
+    "baseDps" : 45,
+    "energyUsage" : 90,
+    "inaccuracy" : 0.03,
+    "burstTime" : 0.075,
+    "burstCount" : 1,
     "projectileCount" : 1,
-    "fireType" : "burst",
+    "fireType" : "auto",
 
-    "projectileType" : "densiniumrifleshot",
+    "projectileType" : "fusoundwave",
     "projectileParameters" : {
-      "knockback" : 7
+      "speed" : 75,
+      "knockback" : 4
     },
-	  "stances" : {
-	    "idle" : {
-	      "armRotation" : 0,
-	      "weaponRotation" : 0,
-	      "twoHanded" : true,
+  "stances" : {
+    "idle" : {
+      "armRotation" : 0,
+      "weaponRotation" : 0,
+      "twoHanded" : true,
 
-	      "allowRotate" : true,
-	      "allowFlip" : true
-	    },
-	    "fire" : {
-	      "duration" : 0,
-	      "armRotation" : 5,
-	      "weaponRotation" : 5,
-	      "twoHanded" : true,
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "fire" : {
+      "duration" : 0,
+      "armRotation" : 5,
+      "weaponRotation" : 5,
+      "twoHanded" : true,
 
-	      "allowRotate" : false,
-	      "allowFlip" : false
-	    },
-	    "cooldown" : {
-	      "duration" : 0.075,
-	      "armRotation" : 5,
-	      "weaponRotation" : 5,
-	      "twoHanded" : true,
+      "allowRotate" : false,
+      "allowFlip" : false
+    },
+    "cooldown" : {
+      "duration" : 0.075,
+      "armRotation" : 5,
+      "weaponRotation" : 5,
+      "twoHanded" : true,
 
-	      "allowRotate" : false,
-	      "allowFlip" : false
-	    }
-	  }
+      "allowRotate" : false,
+      "allowFlip" : false
+    }
+  }
   },
-
-  "critChance" : 33,
-  "critBonus" : 33,
-  "altAbilityType" : "spatialcollapseblast",
+  "critChance" : 4,
+  "critBonus" : 6,
+  "altAbilityType" : "fuerchiuslauncher",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }
