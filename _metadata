@@ -1,10 +1,10 @@
 {
   "author" : "Vos",
-  "description" : "A VosNet mod, focusing on higher-end weapons and technology. This mod requires Frackin' Universe to run. \nUpdate Log:\n1.15: Added Uranium Rifle, currently no ",
+  "description" : "A VosNet mod, focusing on higher-end weapons and technology. This mod requires Frackin' Universe to run. \n\nUpdate Log:\n1.17: Fixed the pickup recipe for the Uranium Rifle & Vosmium Rifle\n1.16: Added Uranium Rifle, craftable at the Armory after acquiring Enriched Uranium.",
   "friendlyName" : "VosNet",
   "includes" : ["FrackinUniverse"],
   "link" : "steam://url/CommunityFilePage/974472310",
   "name" : "VosNet",
   "steamContentId" : "974472310",
-  "version" : "1.15"
+  "version" : "1.17"
 }

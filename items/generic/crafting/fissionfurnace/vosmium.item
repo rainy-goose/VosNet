@@ -7,7 +7,7 @@
   "description" : "A material similar to the core of Vos, this alloy resonates with an unworldly force",
   "shortdescription" : "^#88e25b;Vosmium^reset;",
   "learnBlueprintsOnPickup" : [
-  "vosrifle"
+  "vosmiumrifle"
   ],
   "itemTags" : [ "reagent" ]
 }
