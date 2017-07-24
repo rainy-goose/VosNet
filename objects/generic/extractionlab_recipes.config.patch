@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/-",
+    "value": {
+      "inputs": {
+        "pluraniumore": 2
+      },
+      "outputs": {
+        "pluraniumrod": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "itemName" : "pluraniumrod",
+  "rarity" : "legendary",
+  "price" : 1000,
+  "category" : "fuel",
+  "inventoryIcon" : "pluraniumrod.png",
+  "description" : "A rod of enriched Pluranium. This is an incredible source of fuel!",
+  "shortdescription" : "^#ffbf80;Pluranium Rod^white;",
+  "radioMessagesOnPickup" : [ "" ],
+  "fuelAmount" : 1200,
+  "itemTags" : [ "reagent" ]
+}

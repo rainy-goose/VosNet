@@ -1,30 +1,28 @@
 {
-  "itemName" : "uraniumrifle",
-  "price" : 5000,
-  "inventoryIcon" : "uraniumrifle.png",
+  "itemName" : "plutoniumrifle",
+  "price" : 8000,
+  "inventoryIcon" : "plutoniumrifle.png",
   "maxStack" : 1,
   "rarity" : "legendary",
-  "description" : "^green;Depleted uranium shreds through targets.^reset;",
-  "shortdescription" :   "^green;Uranium Rifle^reset;",
-  "category" : "^#e43774;Upgradeable Rifle^reset;",
-  "level" : 5,
+  "description" : "^#FC00FF;Depleted plutonium obliterates targets.^reset;",
+  "shortdescription" :   "^#FC00FF;Plutonium Rifle^reset;",
+  "category" : "Assault Rifle",
+  "level" : 7,
   "tooltipKind" : "gun2",
   "weaponType" : "Energy",
   "itemTags" : ["weapon","ranged","rifle", "energy"],
   "twoHanded" : true,
-  "learnBlueprintsOnPickup" : [ "plutoniumrifle" ],
-
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "uraniumrifle.png",
-    "middlefullbright" : "uraniumriflefullbright.png",
+    "middle" : "plutoniumrifle.png",
+    "middlefullbright" : "plutoniumriflefullbright.png",
     "barrel" : "",
     "muzzleFlash" : "/animations/muzzleflash/densiniummuzzle.png"
   },
   "animationCustom" : {
     "sounds" : {
-      "fire" : [ "/sfx/gun/plasma_ar2.ogg" ]
+      "fire" : [ "/sfx/gun/plasma_shotgun3.ogg" ]
     }
   },
 
@@ -39,18 +37,17 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
     "fireTime" : 0.1,
-    "baseDps" : 80,
+    "baseDps" : 120,
     "energyUsage" : 90,
-    "inaccuracy" : 0.03,
-    "burstTime" : 0.075,
+    "inaccuracy" : 0.01,
+    //"burstTime" : 0.075,
     "burstCount" : 1,
     "projectileCount" : 1,
     "fireType" : "auto",
-
-    "projectileType" : "fusoundwave",
+    "projectileType" : "chargemachinegunshot",
     "projectileParameters" : {
-      "speed" : 70,
-      "knockback" : 2
+      "speed" : 95,
+      "knockback" : 8
     },
   "stances" : {
     "idle" : {
@@ -66,7 +63,6 @@
       "armRotation" : 5,
       "weaponRotation" : 5,
       "twoHanded" : true,
-
       "allowRotate" : false,
       "allowFlip" : false
     },
@@ -75,14 +71,13 @@
       "armRotation" : 5,
       "weaponRotation" : 5,
       "twoHanded" : true,
-
       "allowRotate" : false,
       "allowFlip" : false
     }
   }
   },
-  "critChance" : 4,
-  "critBonus" : 6,
+  "critChance" : 6,
+  "critBonus" : 12,
   "altAbilityType" : "fuerchiuslauncher",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"

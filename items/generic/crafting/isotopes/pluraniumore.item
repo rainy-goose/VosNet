@@ -1,0 +1,11 @@
+{
+  "itemName" : "pluraniumore",
+  "rarity" : "legendary",
+  "price" : 500,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "pluraniumore.png",
+  "description" : "Pluranium vibrates at a near-ultrasonic frequency.",
+  "shortdescription" : "^#ffbf80;Pluranium Ore^white;",
+  "radioMessagesOnPickup" : [ "" ],
+  "itemTags" : [ "reagent" ]
+}
