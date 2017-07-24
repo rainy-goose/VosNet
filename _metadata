@@ -1,10 +1,10 @@
 {
   "author" : "Vos",
-  "description" : "An expansion for Frackin' Universe focusing on higher-end weapons and technology. This mod requires Frackin' Universe to run. \n\nI'll be working on this mod as much as I can over the next few weeks to add a base amount of content and items within the game. If anyone is interested in helping, send me a message on steam! Any suggestions are encouraged & highly appreciated!  \n\nUpdate Log:\n1.199: Fixed some metadata issues\n1.19: Added Pluranium Ore & Pluranium Rod, a better source of ship fuel. \n1.18: Added the Plutonium Rifle, craftable at the Armory, unlocked from the Uranium rifle. Nerfed the Uranium Rifle a small amount. Changed item model for Zabrium.\n1.17: Fixed the pickup recipe for the Uranium Rifle & Vosmium Rifle\n1.16: Added Uranium Rifle, craftable at the Armory after acquiring Enriched Uranium.",
+  "description" : "An expansion for Frackin' Universe focusing on higher-end weapons and technology. This mod requires Frackin' Universe to run. \n\nI'll be working on this mod as much as I can over the next few weeks to add a base amount of content and items within the game. If anyone is interested in helping, send me a message on steam! Any suggestions are encouraged & highly appreciated!  \n\nUpdate Log:\n1.1997: Fixed issues with recipes for Pluranium\n1.199: Fixed some metadata issues\n1.19: Added Pluranium Ore & Pluranium Rod, a better source of ship fuel. \n1.18: Added the Plutonium Rifle, craftable at the Armory, unlocked from the Uranium rifle. Nerfed the Uranium Rifle a small amount. Changed item model for Zabrium.\n1.17: Fixed the pickup recipe for the Uranium Rifle & Vosmium Rifle\n1.16: Added Uranium Rifle, craftable at the Armory after acquiring Enriched Uranium.",
   "friendlyName" : "VosNet",
   "includes" : ["FrackinUniverse"],
   "link" : "steam://url/CommunityFilePage/974472310",
   "name" : "VosNet",
   "steamContentId" : "974472310",
-  "version" : "1.19"
+  "version" : "1.1997"
 }

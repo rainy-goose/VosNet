@@ -7,6 +7,6 @@
   "description" : "A rod of enriched Pluranium. This is an incredible source of fuel!",
   "shortdescription" : "^#ffbf80;Pluranium Rod^white;",
   "radioMessagesOnPickup" : [ "" ],
-  "fuelAmount" : 1200,
+  "fuelAmount" : 786,
   "itemTags" : [ "reagent" ]
 }
