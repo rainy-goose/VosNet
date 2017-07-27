@@ -40,7 +40,7 @@
   "primaryAbility" : {
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
-    "fireTime" : 0.002,
+    "fireTime" : 0.01,
     "baseDps" : 1500,
     "energyUsage" : 5000,
     "inaccuracy" : 0,
@@ -49,7 +49,7 @@
     "fireType" : "auto",
     "projectileType" : "cfjplaser",
     "projectileParameters" : {
-      "speed" : 400,
+      "speed" : 200,
       "knockback" : 0
     },
   "stances" : {
@@ -81,7 +81,6 @@
   },
   "critChance" : 6,
   "critBonus" : 12,
-  "altAbilityType" : "fuerchiuslauncher",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

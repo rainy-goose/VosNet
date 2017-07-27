@@ -2,13 +2,13 @@
   "input" : [
     { "item" : "oprinque", "count" : 1},
     { "item" : "quietusbar", "count" : 1 },
-    { "item" : "zabrium", "count" : 1 },
-    { "item" : "effigiumbar", "count" : 1 }
+    { "item" : "pluraniumrod", "count" : 2 },
+    { "item" : "densiniumbar", "count" : 1}
   ],
   "output" : {
     "item" : "vosmium",
     "count" : 1
   },
-  "groups" : [ "fissionfurnace", "bars", "all" ],
+  "groups" : [ "vn" ],
   "duration" : 1
 }

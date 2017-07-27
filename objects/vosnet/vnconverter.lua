@@ -1,6 +1,6 @@
 local recipes =
 {
-{inputs = { pluraniumore=5 }, outputs = { pluraniumrod=1 }, time = 2.0}
+{inputs = { pluraniumore=10 }, outputs = { pluraniumrod=1 }, time = 2.0}
 -- should have precursor resources crafted here, too
 }
 

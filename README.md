@@ -1,3 +1,3 @@
 # VosNet
 A Starbound Mod
-This mod requires Frackin' Universe. Without it, this mod wil not run.
+An expansion for Frackin' Universe focusing on higher-end weapons and technology. This mod requires Frackin' Universe to run. 

@@ -1,0 +1,30 @@
+{
+  "objectName" : "vnaeiphusparadigm",
+  "printable" : false,
+  "rarity" : "Legendary",
+  "description" : "Develop and produce incredible equipment.",
+  "shortdescription" : "^#00ccff;Aeiphus Paradigm^white;",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/vnaeiphusparadigm.config",
+    "filter" : [ "vn" ]
+  },
+
+  "inventoryIcon" : "vnaeiphusparadigm_icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "vnaeiphusparadigm.png",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionspaces" : [ [24, 71], [25, 72], [26, 73], [27, 74], [28, 74], [29, 74], [30, 74], [31, 74], [31, 74], [32, 74], [33, 74], [34, 74], [35, 74], [36, 74] ]
+    }
+  ],
+  "lightColor" : [64, 0, 128],
+  "animationPosition" : [0, 0]
+
+}

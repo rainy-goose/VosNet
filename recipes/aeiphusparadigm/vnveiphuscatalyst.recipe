@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "graphene", "count" : 50},
+    { "item" : "pluraniumore", "count" : 20 },
+    { "item" : "advancealloy", "count" : 20 },
+    { "item" : "aichip", "count" : 5 },
+   { "item" : "precursorconverter", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "vnveiphuscatalyst",
+    "count" : 1
+  },
+  "groups" : [ "vn"],
+  "duration" : 10
+}
