@@ -14,7 +14,7 @@
   "itemTags" : ["weapon","ranged","assaultrifle", "energy", "vosmium"],
   "twoHanded" : true,
 
-  "animation" : "/items/active/weapons/ranged/unique/vosmiumrifle.animation",
+  "animation" : "/items/active/weapons/ranged/unique/vosnet/vosmiumrifle.animation",
   "animationParts" : {
     "butt" : "",
     "middle" : "vosmiumrifle.png",
