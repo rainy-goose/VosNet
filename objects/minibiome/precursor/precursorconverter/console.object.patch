@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/scripts/1",
+    "value": "/objects/minibiome/precursor/precursorconverter/vnconverter.lua"
+  }
+]

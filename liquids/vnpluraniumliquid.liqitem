@@ -1,0 +1,10 @@
+{
+  "itemName" : "vnpluraniumliquid",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "vnliquidpluraniumicon.png",
+  "shortdescription" : "^#ffbf80;Liquid Pluranium^white;",
+  "description" : "A measure of liquid pluranium. How is this possible!?",
+
+  "liquid" : "vnliquidpluranium"
+}

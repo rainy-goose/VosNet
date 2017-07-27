@@ -1,0 +1,87 @@
+{
+  "itemName" : "cfjp",
+  "price" : 8998,
+  "inventoryIcon" : "cfjp.png",
+  "maxStack" : 1,
+  "rarity" : "legendary",
+  "description" : "^#FC00FF;You're welcome.^reset;",
+  "shortdescription" :   "^#FC00FF;CF-JP^reset;",
+  "category" : "Laser Rifle",
+  "level" : 9,
+  "tooltipKind" : "gun2",
+  "weaponType" : "Energy",
+  "itemTags" : ["weapon","ranged","rifle", "energy"],
+  "twoHanded" : true,
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "cfjp.png",
+    "middlefullbright" : "cfjpfullbright.png",
+    "barrel" : "",
+    "muzzleFlash" : "/animations/muzzleflash/fuplasmamuzzle1.png"
+  },
+  "animationCustom" : {
+    "lights" : { "glow" : {
+      "active" : true,
+      "position" : [0.75, 0.5],
+      "color" : [120, 20, 0]
+    }},
+    "sounds" : {
+      "fire" : [ "/sfx/gun/plasma_sniper2.ogg" ]
+    }
+  },
+  "baseOffset" : [1.3, 0.35],
+  "muzzleOffset" : [1.85, 0.125],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "electric",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+    "fireTime" : 0.002,
+    "baseDps" : 1500,
+    "energyUsage" : 5000,
+    "inaccuracy" : 0,
+    "burstCount" : 1,
+    "projectileCount" : 1,
+    "fireType" : "auto",
+    "projectileType" : "cfjplaser",
+    "projectileParameters" : {
+      "speed" : 400,
+      "knockback" : 0
+    },
+  "stances" : {
+    "idle" : {
+      "armRotation" : 0,
+      "weaponRotation" : 0,
+      "twoHanded" : true,
+
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "fire" : {
+      "duration" : 0,
+      "armRotation" : 5,
+      "weaponRotation" : 5,
+      "twoHanded" : true,
+      "allowRotate" : false,
+      "allowFlip" : false
+    },
+    "cooldown" : {
+      "duration" : 0.075,
+      "armRotation" : 5,
+      "weaponRotation" : 5,
+      "twoHanded" : true,
+      "allowRotate" : false,
+      "allowFlip" : false
+    }
+  }
+  },
+  "critChance" : 6,
+  "critBonus" : 12,
+  "altAbilityType" : "fuerchiuslauncher",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}
