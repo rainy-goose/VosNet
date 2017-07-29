@@ -2,7 +2,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJxjYBh6QINEPGrn4LaTkUQ8aufwtLOeSExqGsWXbom1s57iUBm1c9TOoQsAZqswGQ==",
+         "data":"eJxjYBgFwxmsoBEmZKciDkyJ3KidI8tOeqfbUTAKRgF2AAAdzTWb",
          "encoding":"base64",
          "height":18,
          "name":"back",
@@ -15,7 +15,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYBh6QINGakfthJhDCh4FAwOOD7QDaATqicDpVMCk2jkQ\/hy1c+jYOdwBAES0JTk=",
+         "data":"eJxjYBgFwxmsoBEeBaOAlmA03Y6CUTB4AABx7xzh",
          "encoding":"base64",
          "height":18,
          "name":"front",
@@ -31,28 +31,16 @@
          "name":"Object Layer 1",
          "objects":[
                 {
-                 "gid":344,
-                 "height":40,
-                 "id":5,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":48,
-                 "x":160,
-                 "y":80
-                }, 
-                {
-                 "gid":2147484076,
+                 "gid":820,
                  "height":24,
-                 "id":7,
+                 "id":18,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":24,
-                 "x":128,
-                 "y":80
+                 "width":32,
+                 "x":104,
+                 "y":72
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -63,34 +51,14 @@
         {
          "draworder":"topdown",
          "name":"wiring",
-         "objects":[
-                {
-                 "height":0,
-                 "id":14,
-                 "name":"door ",
-                 "polyline":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":48,
-                         "y":-40
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":136,
-                 "y":80
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextobjectid":15,
+ "nextobjectid":20,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2017.07.25",
@@ -115,6 +83,10 @@
         {
          "firstgid":563,
          "source":"C:\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/tilesets\/packed\/liquids.json"
+        }, 
+        {
+         "firstgid":591,
+         "source":"C:\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/tilesets\/packed\/objects-by-category\/storage.json"
         }],
  "tilewidth":8,
  "type":"map",

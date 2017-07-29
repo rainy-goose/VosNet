@@ -4,7 +4,8 @@
   "category" : "liquid",
   "inventoryIcon" : "vnliquidpluraniumicon.png",
   "shortdescription" : "^#ffbf80;Liquid Pluranium^white;",
-  "description" : "A measure of liquid pluranium. How is this possible!?",
+  "description" : "Raw, unprocessed Liquid Pluranium.",
 
-  "liquid" : "vnliquidpluranium"
+  "liquid" : "vnliquidpluranium",
+  "collectablesOnPickup" : { "vn_pluranium" : "vnpluraniumliquid" }
 }

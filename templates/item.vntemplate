@@ -1,0 +1,11 @@
+{
+  "itemName" : "",
+  "rarity" : "",
+  "price" : 0,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : ".png",
+  "description" : "",
+  "shortdescription" : "",
+  "learnBlueprintsOnPickup" : [],
+  "itemTags" : ["reagent", "vn"]
+}
