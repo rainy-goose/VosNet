@@ -1,0 +1,12 @@
+{
+  "itemName" : "pluraniumcable",
+  "rarity" : "legendary",
+  "price" : 1000,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "pluraniumcable.png",
+  "description" : "Strong, resilient cabling imbued with Pluranium.",
+  "shortdescription" : "^#ffbf80;Pluranium Cable^white;",
+  "learnBlueprintsOnPickup" : [],
+  "itemTags" : ["reagent", "vn"],
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumcable" }  
+}

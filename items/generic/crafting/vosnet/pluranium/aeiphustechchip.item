@@ -1,0 +1,11 @@
+{
+  "itemName" : "aeiphustechchip",
+  "rarity" : "legendary",
+  "price" : 600,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "aeiphustechchip.png",
+  "description" : "A fragment of old Aeiphus Tech.",
+  "shortdescription" : "^#00ccff;Aeiphus Tech Chip^reset;",
+  "learnBlueprintsOnPickup" : [],
+  "itemTags" : ["reagent", "vn" ]
+}

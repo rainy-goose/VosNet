@@ -1,0 +1,12 @@
+{
+  "itemName" : "pluraniumbattery",
+  "rarity" : "legendary",
+  "price" : 600,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "pluraniumbattery.png",
+  "description" : "This battery seems to run on Pluranium!",
+  "shortdescription" : "^#ffbf80;Pluranium Battery^reset;",
+  "learnBlueprintsOnPickup" : [],
+  "itemTags" : ["reagent", "vn"],
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumbattery" }  
+}

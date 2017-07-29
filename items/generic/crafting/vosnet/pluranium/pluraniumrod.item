@@ -8,5 +8,6 @@
   "shortdescription" : "^#ffbf80;Pluranium Rod^white;",
   "radioMessagesOnPickup" : [ "" ],
   "fuelAmount" : 786,
-  "itemTags" : [ "reagent" ]
+  "itemTags" : [ "reagent", "vn" ],
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumrod" }  
 }

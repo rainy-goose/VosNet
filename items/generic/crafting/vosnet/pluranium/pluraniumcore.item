@@ -1,0 +1,12 @@
+{
+  "itemName" : "pluraniumcore",
+  "rarity" : "legendary",
+  "price" : 1200,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "pluraniumcore.png",
+  "description" : "A core of Pluranium.",
+  "shortdescription" : "^#ffbf80;Pluranium Core^white;",
+  "learnBlueprintsOnPickup" : [],
+  "itemTags" : ["reagent", "vn"],
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumcore" }  
+}

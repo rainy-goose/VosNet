@@ -1,0 +1,12 @@
+{
+  "itemName" : "processedliquidpluranium",
+  "rarity" : "rare",
+  "price" : 50,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "processedliquidpluranium.png",
+  "description" : "A sealed canister of Liquid Pluranium!",
+  "shortdescription" : "^#ffbf80;Processed Liquid Pluranium^reset;",
+  "radioMessagesOnPickup" : [],
+  "itemTags" : [ "reagent", "vn" ],
+    "collectablesOnPickup" : { "vn_pluranium" : "processedliquidpluranium" }
+}

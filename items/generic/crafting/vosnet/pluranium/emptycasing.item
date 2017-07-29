@@ -1,0 +1,11 @@
+{
+  "itemName" : "emptycasing",
+  "rarity" : "rare",
+  "price" : 50,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "emptycasing.png",
+  "description" : "An empty casing, designed to hold fluids.",
+  "shortdescription" : "Empty Casing",
+  "radioMessagesOnPickup" : [],
+  "itemTags" : [ "reagent", "vn" ]
+}

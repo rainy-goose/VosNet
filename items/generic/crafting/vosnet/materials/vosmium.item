@@ -9,5 +9,5 @@
   "learnBlueprintsOnPickup" : [
   "vosmiumrifle"
   ],
-  "itemTags" : [ "reagent" ]
+  "itemTags" : [ "reagent", "vn" ]
 }
