@@ -1,0 +1,16 @@
+{
+  "name" : "vn_pluranium",
+  "title" : "[VN] Pluranium",
+  "type" : "item",
+
+  "collectables" : {
+    "pluraniumore" : { "order" : 1, "item" : "pluraniumore" },
+    "pluraniumrod" : { "order" : 2, "item" : "pluraniumrod" },
+    "vnpluraniumliquid" : { "order" : 3, "item" : "vnpluraniumliquid" },
+    "pluraniumcore" : { "order" : 4, "item" : "pluraniumcore" },
+    "pluraniumbattery" : { "order" : 5, "item" : "pluraniumbattery" },
+    "pluraniumcable" : { "order" : 6, "item" : "pluraniumcable" },
+    "pluraniumepoxy" : { "order" : 7, "item" : "pluraniumepoxy" },
+    "processedliquidpluranium" : {"order" : 8, "item" : "processedliquidpluranium"}
+  }
+}
