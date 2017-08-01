@@ -6,7 +6,7 @@
   "inventoryIcon" : "pluraniumbattery.png",
   "description" : "This battery seems to run on Pluranium!",
   "shortdescription" : "^#ffbf80;Pluranium Battery^reset;",
-  "learnBlueprintsOnPickup" : [],
+  "learnBlueprintsOnPickup" : ["cfjp"],
   "itemTags" : ["reagent", "vn"],
-  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumbattery" }  
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumbattery" }
 }

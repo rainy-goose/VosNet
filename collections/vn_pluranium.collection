@@ -11,6 +11,7 @@
     "pluraniumbattery" : { "order" : 5, "item" : "pluraniumbattery" },
     "pluraniumcable" : { "order" : 6, "item" : "pluraniumcable" },
     "pluraniumepoxy" : { "order" : 7, "item" : "pluraniumepoxy" },
-    "processedliquidpluranium" : {"order" : 8, "item" : "processedliquidpluranium"}
+    "processedliquidpluranium" : {"order" : 8, "item" : "processedliquidpluranium"},
+    "pluraniumfuelinjector" : { "order" : 9, "item" : "pluraniumfuelinjector" }
   }
 }

@@ -6,7 +6,7 @@
   "inventoryIcon" : "pluraniumepoxy.png",
   "description" : "A blob of Pluranium Epoxy. Tenacious!",
   "shortdescription" : "^#ffbf80;Pluranium Epoxy^white;",
-  "learnBlueprintsOnPickup" : [],
+  "learnBlueprintsOnPickup" : ["cfjp"],
   "itemTags" : ["reagent", "vn"],
-  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumepoxy" }  
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumepoxy" }
 }

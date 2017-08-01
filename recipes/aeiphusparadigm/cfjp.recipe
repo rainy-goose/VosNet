@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "aeiphustechchip", "count" : 12},
+    { "item" : "pluraniumfuelinjector", "count" : 8},
+    { "item" : "pluraniumepoxy", "count" : 5 },
+    { "item" : "pluraniumcable", "count" : 5 },
+    { "item" : "processedliquidpluranium", "count" : 5 },
+    { "item" : "pluraniumbattery", "count" : 5 },
+    { "item" : "pluraniumcore", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "cfjp",
+    "count" : 1
+  },
+  "groups" : [ "vn"],
+  "duration" : 10
+}

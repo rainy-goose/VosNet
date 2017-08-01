@@ -1,0 +1,17 @@
+{
+  "missionName" : "heliosbase",
+  "icon" : "heliosbase.png",
+  "missionWorld" : "heliosbase",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "Visit Helios Base",
+      "repeatButtonText" : "Visit Helios Base",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "There has been no communication from Helios Base. Find out why.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

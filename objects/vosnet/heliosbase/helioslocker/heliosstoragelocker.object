@@ -1,0 +1,32 @@
+{
+  "objectName" : "helioslocker",
+  "colonyTags" : ["helios", "vn", "storage"],
+  "rarity" : "legendary",
+  "category" : "storage",
+  "price" : 300,
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A storage locker, designed for Helios Base.",
+  "shortdescription" : "Helios Locker",
+  "race" : "generic",
+  "health" : 2,
+
+  "inventoryIcon" : "helioslockericon.png",
+  "orientations" : [
+    {
+      "image" : "helioslocker.png:<color>.<key>",
+      "imagePosition" : [-16, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/gunchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/gunchest_close.ogg" ],
+  "slotCount" : 48,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600
+}

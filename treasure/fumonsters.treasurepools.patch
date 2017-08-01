@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/shoggothFlesh/0/1/fill/-",
+    "value": {
+      "item": [
+        "pluraniumshard",
+        1
+      ]
+    }
+  }
+]

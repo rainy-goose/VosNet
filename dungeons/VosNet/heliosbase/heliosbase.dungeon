@@ -1,10 +1,10 @@
 {
   "metadata" : {
-    "name" : "testing",
+    "name" : "heliosbase",
     "species" : "generic",
     "rules" : [
     ],
-    "anchor" : [ "testing" ],
+    "anchor" : [ "heliosbase" ],
     "gravity" : 80,
     "maxRadius" : 1000000,
     "maxParts" : 100,
@@ -13,11 +13,11 @@
 
   "parts" : [
     {
-      "name" : "testing",
+      "name" : "heliosbase",
       "rules" : [
         [ "maxSpawnCount", [1] ]
       ],
-      "def" : [ "tmx", "testing.json" ]
+      "def" : [ "tmx", "heliosbase.json" ]
     }
   ]
 }

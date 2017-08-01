@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "glass", "count" : 8},
+    { "item" : "tungstenbar", "count" : 3}
+  ],
+  "output" : {
+    "item" : "emptycasing",
+    "count" : 1
+  },
+  "groups" : [ "vn"],
+  "duration" : 1
+}

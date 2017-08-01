@@ -4,9 +4,9 @@
   "price" : 1200,
   "category" : "craftingMaterial",
   "inventoryIcon" : "pluraniumcore.png",
-  "description" : "A core of Pluranium.",
+  "description" : "A powerful Pluranium Core.",
   "shortdescription" : "^#ffbf80;Pluranium Core^white;",
-  "learnBlueprintsOnPickup" : [],
+  "learnBlueprintsOnPickup" : ["cfjp"],
   "itemTags" : ["reagent", "vn"],
-  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumcore" }  
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumcore" }
 }

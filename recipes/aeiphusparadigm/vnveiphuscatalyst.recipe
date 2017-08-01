@@ -4,7 +4,7 @@
     { "item" : "pluraniumore", "count" : 20 },
     { "item" : "advancealloy", "count" : 20 },
     { "item" : "aichip", "count" : 5 },
-   { "item" : "precursorconverter", "count" : 1 }
+    { "item" : "precursorconverter", "count" : 1 }
   ],
   "output" : {
     "item" : "vnveiphuscatalyst",

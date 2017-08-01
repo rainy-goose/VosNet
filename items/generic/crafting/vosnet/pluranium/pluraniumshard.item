@@ -1,0 +1,12 @@
+{
+  "itemName" : "pluraniumshard",
+  "rarity" : "legendary",
+  "price" : 3000,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "pluraniumshard.png",
+  "description" : "A Pluranium Shard from Helios Base. What happened!?",
+  "shortdescription" : "^#ffbf80;Pluranium Shard^reset;",
+  "learnBlueprintsOnPickup" : [""],
+  "itemTags" : ["reagent", "vn" ],
+  "pickupQuestTemplates" : [ "heliosbase_unlock" ]
+}

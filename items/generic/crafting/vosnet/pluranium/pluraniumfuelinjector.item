@@ -1,0 +1,12 @@
+{
+  "itemName" : "pluraniumfuelinjector",
+  "rarity" : "legendary",
+  "price" : 800,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "pluraniumfuelinjector.png",
+  "description" : "A handheld fuel injector with unlimited potential.",
+  "shortdescription" : "^#ffbf80;Pluranium Fuel Injector^white;",
+  "radioMessagesOnPickup" : [ "" ],
+  "itemTags" : [ "reagent", "vn" ],
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumfuelinjector" }
+}
