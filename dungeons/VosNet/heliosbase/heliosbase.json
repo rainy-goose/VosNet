@@ -2,7 +2,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt18EJwCAQRFFbSfdbZhrwIijJOu\/BXEX4Fx0DAAAAAAAAAAAAAAAAAAAAAO7zLIw7aJ5H8zyaZ6kxb1tfXoqjNM+jeR7N+6kN07yXlTf3yjT\/L83zaJ5H8zya59E8j+Z97PhXz7bzbAAAAAA46QWhF0yo",
+         "data":"eJzt18EJgDAQRNG0YveWKd48KGsgCsu8B1PBP2QzBgAAAAAAAAAAAAAAAAAAAOTZil3txeihaj4zetA8j+Z5NM+jeZbz1n7qd3eHu9v7m21Of5rn0byf6n19M817WXlza96D5nk0z6N5Hs3zaJ5H8z5W\/Kv\/GAAAAAB85QBtk2Gf",
          "encoding":"base64",
          "height":60,
          "name":"back",
@@ -25,7 +25,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt18EJACEMRUH7r8ROtq2tIMKCruifgVwl8A7B1gAAAAAAAAAAAAAAAAAAAADu1ncvwO80z6N5Hs3zaJ6nat6L4Xyj5txJ8zyan6e6u1+mepcsmufRPI\/meTTPo3kezdd4di8woPl8M\/7VqwcAAAAAVnoBR4436A==",
+         "data":"eJzt2rEJgDAURVHFwZzCHd3EtcReTOEXNe8c+FWawC0SQoYBAAAAAAAAAAAAAAAAAAAAsqzFw\/fplEfzPJrn0TxPq\/ky3lvne47m83Q+7u19uuqkYZ80z6P5\/1S8nV2d52TRPI\/meTTPo3kezfNoXm97ewMNmteq\/p\/y1AAAAADAU3Z7SU4M",
          "encoding":"base64",
          "height":60,
          "name":"front",
@@ -87,16 +87,64 @@
                  "y":400
                 }, 
                 {
-                 "gid":487,
-                 "height":96,
-                 "id":115,
+                 "gid":2147484621,
+                 "height":56,
+                 "id":120,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":40,
-                 "x":480,
-                 "y":400
+                 "width":60,
+                 "x":344,
+                 "y":336
+                }, 
+                {
+                 "gid":2147484621,
+                 "height":56,
+                 "id":121,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":60,
+                 "x":408,
+                 "y":336
+                }, 
+                {
+                 "gid":2461,
+                 "height":16,
+                 "id":122,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":456,
+                 "y":280
+                }, 
+                {
+                 "gid":2635,
+                 "height":8,
+                 "id":124,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":384,
+                 "y":352
+                }, 
+                {
+                 "gid":2635,
+                 "height":8,
+                 "id":125,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":488,
+                 "y":272
                 }],
          "offsetx":-8,
          "offsety":-56,
@@ -117,7 +165,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":120,
+ "nextobjectid":126,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2017.07.25",
@@ -146,6 +194,18 @@
         {
          "firstgid":591,
          "source":"C:\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/tilesets\/packed\/objects-by-category\/storage.json"
+        }, 
+        {
+         "firstgid":822,
+         "source":"C:\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/tilesets\/packed\/supports.json"
+        }, 
+        {
+         "firstgid":858,
+         "source":"C:\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/tilesets\/packed\/objects-by-category\/decorative.json"
+        }, 
+        {
+         "firstgid":2274,
+         "source":"C:\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/tilesets\/packed\/objects-by-category\/light.json"
         }],
  "tilewidth":8,
  "type":"map",
