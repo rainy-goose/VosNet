@@ -1,8 +1,6 @@
 local recipes =
 {
-{inputs = {precursorfluid=600}, {tritium=500}, {liquidmetallichydrogen=20}, outputs = {pluraniumore=4}, time = 0.5},
-{inputs = { pluraniumore=10 }, outputs = { pluraniumrod=1 }, time = 2.0},
-{inputs = {pluraniumepoxy=10}, {pluraniumbattery=4}, outputs = {pluraniumcore=1}, time = 4.0}
+{inputs = { pluraniumore=10 }, outputs = { pluraniumrod=1 }, time = 2.0}
 -- should have precursor resources crafted here, too
 }
 
