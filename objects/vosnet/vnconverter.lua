@@ -1,7 +1,7 @@
 local recipes =
 {
 {inputs = { pluraniumore=10 }, outputs = { pluraniumrod=1 }, time = 2.0},
-{inputs = { tritium=77, precursorfluid=777,}, outputs = {pluraniumore=1}, time = 3.0}
+{inputs = { tritium=77, precursorfluid=777,}, outputs = {pluraniumore=5}, time = 3.0}
 }
 
 function init()
