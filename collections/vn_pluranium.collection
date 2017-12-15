@@ -12,6 +12,7 @@
     "pluraniumcable" : { "order" : 6, "item" : "pluraniumcable" },
     "pluraniumepoxy" : { "order" : 7, "item" : "pluraniumepoxy" },
     "processedliquidpluranium" : {"order" : 8, "item" : "processedliquidpluranium"},
-    "pluraniumfuelinjector" : { "order" : 9, "item" : "pluraniumfuelinjector" }
+    "pluraniumfuelinjector" : { "order" : 9, "item" : "pluraniumfuelinjector" },
+    "aeiphustechchip" : { "order" : 10, "item" : "aeiphustechchip"}
   }
 }

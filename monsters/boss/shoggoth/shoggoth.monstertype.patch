@@ -2,7 +2,6 @@
   {
     "op": "add",
     "path": "/dropPools/-",
-    //"value": "shardPool"
-    "value": "heliosPool"
+    "value": "pluraniumPool"
   }
 ]
