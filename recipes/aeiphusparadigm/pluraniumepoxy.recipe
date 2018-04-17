@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "processedliquidpluranium", "count" : 2},
+    { "item" : "pluraniumore", "count" : 1 },
+    { "item" : "precursorgel", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "pluraniumepoxy",
+    "count" : 1
+  },
+  "groups" : [ "vn" ],
+  "duration" : 1
+}
