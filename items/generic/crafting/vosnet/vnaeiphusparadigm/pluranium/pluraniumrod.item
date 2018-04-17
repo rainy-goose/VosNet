@@ -4,10 +4,10 @@
   "price" : 1000,
   "category" : "fuel",
   "inventoryIcon" : "pluraniumrod.png",
-  "description" : "A rod of enriched Pluranium. This is an incredible source of fuel!",
+  "description" : "A rod of Pluranium. This is an incredible source of fuel!",
   "shortdescription" : "^#ffbf80;Pluranium Rod^white;",
   "radioMessagesOnPickup" : [ "" ],
-  "fuelAmount" : 786,
+  "fuelAmount" : 500,
   "itemTags" : [ "reagent", "vn" ],
-  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumrod" }  
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumrod" }
 }

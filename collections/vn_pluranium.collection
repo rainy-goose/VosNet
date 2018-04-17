@@ -6,13 +6,14 @@
   "collectables" : {
     "pluraniumore" : { "order" : 1, "item" : "pluraniumore" },
     "pluraniumrod" : { "order" : 2, "item" : "pluraniumrod" },
-    "vnpluraniumliquid" : { "order" : 3, "item" : "vnpluraniumliquid" },
-    "pluraniumcore" : { "order" : 4, "item" : "pluraniumcore" },
-    "pluraniumbattery" : { "order" : 5, "item" : "pluraniumbattery" },
-    "pluraniumcable" : { "order" : 6, "item" : "pluraniumcable" },
-    "pluraniumepoxy" : { "order" : 7, "item" : "pluraniumepoxy" },
-    "processedliquidpluranium" : {"order" : 8, "item" : "processedliquidpluranium"},
-    "pluraniumfuelinjector" : { "order" : 9, "item" : "pluraniumfuelinjector" },
-    "aeiphustechchip" : { "order" : 10, "item" : "aeiphustechchip"}
+    "enrichedpluraniumrod" : {"order" : 3, "item" : "enrichedpluraniumrod"},
+    "vnpluraniumliquid" : { "order" : 4, "item" : "vnpluraniumliquid" },
+    "pluraniumcore" : { "order" : 5, "item" : "pluraniumcore" },
+    "pluraniumbattery" : { "order" : 6, "item" : "pluraniumbattery" },
+    "pluraniumcable" : { "order" : 7, "item" : "pluraniumcable" },
+    "pluraniumepoxy" : { "order" : 8, "item" : "pluraniumepoxy" },
+    "processedliquidpluranium" : {"order" : 9, "item" : "processedliquidpluranium"},
+    "pluraniumfuelinjector" : { "order" : 10, "item" : "pluraniumfuelinjector" },
+    "aeiphustechchip" : { "order" : 11, "item" : "aeiphustechchip"}
   }
 }
