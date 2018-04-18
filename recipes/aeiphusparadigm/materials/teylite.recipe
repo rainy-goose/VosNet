@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "corvex", "count" : 2},
+    { "item" : "refinedviolium", "count" : 2 },
+    { "item" : "mutavisksilk", "count" : 4}
+  ],
+  "output" : {
+    "item" : "teyliteblob",
+    "count" : 1
+  },
+  "groups" : [ "vn" ],
+  "duration" : 1
+}

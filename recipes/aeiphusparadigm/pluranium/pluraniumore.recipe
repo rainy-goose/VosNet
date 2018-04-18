@@ -2,7 +2,8 @@
   "input" : [
     { "item" : "vosmium", "count" : 1},
     { "item" : "liquidorangegravrain", "count" : 10 },
-    { "item" : "enrichedplutonium", "count" : 2 }
+    { "item" : "enrichedplutonium", "count" : 2 },
+    { "item" : "enricheduranium", "count" : 2}
   ],
   "output" : {
     "item" : "pluraniumore",

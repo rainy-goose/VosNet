@@ -5,7 +5,7 @@
   "category" : "fuel",
   "inventoryIcon" : "enrichedpluraniumrod.png",
   "description" : "Enriched Pluranium vibrates at a hypersonic frequency.",
-  "shortdescription" : "^#ff8000;Pluranium Rod^white;",
+  "shortdescription" : "^#ff8000;Enriched Pluranium Rod^white;",
   "radioMessagesOnPickup" : [ "" ],
   "fuelAmount" : 800,
   "itemTags" : [ "reagent", "vn" ],

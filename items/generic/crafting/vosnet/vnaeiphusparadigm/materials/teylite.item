@@ -1,0 +1,13 @@
+{
+  "itemName" : "teyliteblob",
+  "rarity" : "rare",
+  "price" : 400,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "teylite.png",
+  "description" : "A super-sticky blob that can fuse nearly anything together.",
+  "shortdescription" : "^#804ab2;Teylite^reset;",
+  "learnBlueprintsOnPickup" : [
+    "zabrium"
+  ],
+  "itemTags" : [ "reagent" ]
+}
