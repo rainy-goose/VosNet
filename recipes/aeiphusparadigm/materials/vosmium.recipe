@@ -4,7 +4,8 @@
     { "item" : "oprinque", "count" : 1},
     { "item" : "quietusbar", "count" : 1 },
     { "item" : "densiniumbar", "count" : 1},
-    { "item" : "effigiumbar", "count" : 1}
+    { "item" : "effigiumbar", "count" : 1},
+    { "item" : "teyliteblob", "count" : 2}
   ],
   "output" : {
     "item" : "vosmium",

@@ -2,7 +2,8 @@
   "input" : [
     { "item" : "processedliquidpluranium", "count" : 2},
     { "item" : "pluraniumore", "count" : 1 },
-    { "item" : "precursorgel", "count" : 1 }
+    { "item" : "precursorgel", "count" : 2 },
+    { "item" : "teyliteblob" , "count" : 2}
   ],
   "output" : {
     "item" : "pluraniumepoxy",
