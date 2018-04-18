@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "pyreitebar", "count" : 1 },
     { "item" : "isogenbar", "count" : 1 },
-    { "item" : "lead", "count" : 1}
+    { "item" : "teyliteblob", "count" : 1}
   ],
   "output" : {
     "item" : "zabrium",
