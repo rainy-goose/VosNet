@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "graphene", "count" : 50},
     { "item" : "pluraniumore", "count" : 20 },
-    { "item" : "advancealloy", "count" : 20 },
+    { "item" : "vosmium", "count" : 20 },
     { "item" : "aichip", "count" : 5 },
     { "item" : "precursorconverter", "count" : 1 }
   ],

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "manipulatormodule", "count" : 4}
+  ],
+  "output" : {
+    "item" : "humanartifactaugment",
+    "count" : 1
+  },
+  "groups" : [ "vn"],
+  "duration" : 1
+}

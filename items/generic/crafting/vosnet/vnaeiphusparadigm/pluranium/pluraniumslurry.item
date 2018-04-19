@@ -1,0 +1,11 @@
+{
+  "itemName" : "pluraniumslurry",
+  "rarity" : "legendary",
+  "price" : 600,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "pluraniumslurry.png",
+  "description" : "An unrefined slurry of Pluranium ore.",
+  "shortdescription" : "^#ffbf80;Pluranium Slurry^white;",
+  "radioMessagesOnPickup" : [ "" ],
+  "itemTags" : [ "vn" ]
+}
