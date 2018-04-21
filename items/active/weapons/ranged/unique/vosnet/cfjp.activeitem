@@ -22,7 +22,7 @@
   },
   "animationCustom" : {
     "lights" : { "glow" : {
-      "active" : true,
+      "active" : false,
       "position" : [0.75, 0.5],
       "color" : [120, 20, 0]
     }},
@@ -30,8 +30,8 @@
       "fire" : [ "/sfx/gun/plasma_sniper2.ogg" ]
     }
   },
-  "baseOffset" : [1.3, 0.35],
-  "muzzleOffset" : [1.85, 0.125],
+  "baseOffset" : [1.3, 0.25],
+  "muzzleOffset" : [1.85, 0.5],
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 

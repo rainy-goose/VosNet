@@ -8,6 +8,6 @@
     "item" : "vosmiumrifle",
     "count" : 1
   },
-  "groups" : [ "vn" ],
+  "groups" : [ "armory3", "ranged2", "all" ],
   "duration" : 2
 }
