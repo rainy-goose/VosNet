@@ -7,6 +7,7 @@
   "description" : "Pluranium vibrates at a near-ultrasonic frequency.",
   "shortdescription" : "^#ffbf80;Pluranium Ore^white;",
   "radioMessagesOnPickup" : [ "" ],
+  "learnBlueprintsOnPickup" : [ "pluraniumslurry"],
   "itemTags" : [ "reagent", "vn" ],
-  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumore" }  
+  "collectablesOnPickup" : { "vn_pluranium" : "pluraniumore" }
 }

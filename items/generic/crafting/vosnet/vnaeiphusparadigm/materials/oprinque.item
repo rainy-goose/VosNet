@@ -6,6 +6,7 @@
   "inventoryIcon" : "oprinque.png",
   "description" : "A lightless, multi-phase material.",
   "shortdescription" : "^#88e25b;Oprinque^reset;",
-  "learnBlueprintsOnPickup" : [],
+  "learnBlueprintsOnPickup" : ["vosmium"
+  ],
   "itemTags" : [ "reagent" ]
 }
