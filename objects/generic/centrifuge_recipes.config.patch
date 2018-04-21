@@ -1,0 +1,60 @@
+[
+  {
+    "op": "add",
+    "path": "/itemMapIsotopes/pluraniumslurry",
+    "value": {
+      "vnpluraniumliquid": [
+        "common",
+        2
+      ],
+      "pluraniumrod": [
+        "common",
+        1
+      ],
+      "enrichedpluraniumrod": [
+        "rare",
+        2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/itemMapIsotopes/vnpluraniumliquid",
+    "value": {
+      "processedliquidpluranium": [
+        "common",
+        2
+      ],
+      "pluraniumrod": [
+        "common",
+        1
+      ],
+      "enrichedpluraniumrod": [
+        "rare",
+        2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/itemMapIsotopes/pluraniumrod",
+    "value": {
+      "enrichedpluraniumrod": [
+        "rare",
+        1
+      ],
+      "toxicwaste": [
+        "common",
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/itemMapIsotopes/toxicwaste/pluraniumore",
+    "value": [
+      "rarest",
+      1
+    ]
+  }
+]
