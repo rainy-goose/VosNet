@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "liquidorangegravrain", "count" : 12},
-    { "item" : "pluraniumore", "count" : 2 },
-    { "item" : "teylite", "count" : 2 }
+      { "item" : "liquidorangegravrain", "count" : 12},
+      { "item" : "pluraniumore", "count" : 2 },
+      { "item" : "teyliteblob", "count" : 2 }
   ],
   "output" : {
     "item" : "pluraniumslurry",

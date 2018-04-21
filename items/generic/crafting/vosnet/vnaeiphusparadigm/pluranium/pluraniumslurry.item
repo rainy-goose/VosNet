@@ -7,5 +7,5 @@
   "description" : "An unrefined slurry of Pluranium ore.",
   "shortdescription" : "^#ffbf80;Pluranium Slurry^white;",
   "radioMessagesOnPickup" : [ "" ],
-  "itemTags" : [ "vn" ]
+  "itemTags" : [  "reagent", "vn"]
 }
