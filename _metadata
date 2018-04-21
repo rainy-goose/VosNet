@@ -1,11 +1,11 @@
 {
-  "author" : "Vos",
-  "description" : "An expansion for Frackin' Universe focusing on higher-end weapons and technology. This mod requires Frackin' Universe to run. ",
+  "author" : "rainy.goose",
+  "description" : "An expansion for Frackin' Universe focusing on higher-end weapons and technology. This mod requires Frackin' Universe to run. \n\n1.3 - Big update! Adds a whole bunch of Pluranium items you can craft after doing some endgame Frackin' Universe work.",
   "friendlyName" : "VosNet",
   "includes" : ["FrackinUniverse"],
   "link" : "steam://url/CommunityFilePage/974472310",
   "name" : "VosNet",
   "steamContentId" : "974472310",
   "tags" : "Crafting and Building|Weapons|Furniture and Objects",
-  "version" : "1.23"
+  "version" : "1.3"
 }
