@@ -1,0 +1,7 @@
+
+
+
+# last left off trying to add pluranium back into collections
+# Frackin overwrites(?) standard extra collections so either cobble new one together (hard)
+# or integrate with frackin's list (easier)
+# also took note of frackin's research instructions and template for VN materials

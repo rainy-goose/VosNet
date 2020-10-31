@@ -1,7 +1,7 @@
 [
-    {
-              "op": "add",
-              "path": "/customCollections/-",
-              "value": "vn_pluranium"
-        }
+  {
+    "op": "add",
+    "path": "/customCollections/-",
+    "value": "vn_pluranium"
+  }
 ]
